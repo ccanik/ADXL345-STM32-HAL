@@ -1,4 +1,4 @@
-# TIM_Task
+# ADXL345 Implementation for STM32 HAL Libraries
 An implementation of ADXL345 sensor using STM HAL Library with I2C interface
 
 Tested on Nucleo-F303K8 board and GY-80 multisensor board.
